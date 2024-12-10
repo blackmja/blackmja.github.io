@@ -1,4 +1,3 @@
-# Braiden and Jacob's CIS 161 Project
 
 ![image 1](1.PNG)
 
@@ -37,5 +36,4 @@
 
 
 
-Want to run the code? Check out the Replit project:
-[Run on Replit](https://replit.com/@blackmja/Project?v=1)
+Live demonstration: [Run on Replit](https://replit.com/@blackmja/Project?v=1)
