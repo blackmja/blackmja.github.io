@@ -18,13 +18,13 @@
 ![image 4](4.PNG)
 ---
 
-## Placing the circles and their respective colors.
+## This places the circles and matches them with their respective colors.
 
 ![image 5](5.PNG)
 ![image 6](6.PNG)
 ---
 
-## Function to darken the circles when hovering over them.
+## This is a function to darken the circles when hovering over them.
 
 ![image 7](7.PNG)
 ---
@@ -49,7 +49,7 @@
 ![image 11](11.PNG)
 ---
 
-## A function to check if the players' color choices match the game's colors.
+## Creation of a function to check if the players' color choices match the game's colors.
 
 ![image 12](12.PNG)
 ---
@@ -59,7 +59,7 @@
 ![image 13](13.PNG)
 ---
 
-## Made a function that creates a bar chart and box plot with the running results of the games, to see overall statistics.
+## We made a function that creates a bar chart and box plot with the running results of the games, to see overall statistics.
 
 ![image 14](14.PNG)
 ---
