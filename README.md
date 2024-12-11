@@ -8,12 +8,12 @@
 ![image 2](2.PNG)
 ---
 
-## Setting the colors we use in the game.
+## We chose the colors we want to use in the game.
 
 ![image 3](3.PNG)
 ---
 
-## Setting the game window and name of the game.
+## We set the game window size and name of the game.
 
 ![image 4](4.PNG)
 ---
@@ -39,7 +39,7 @@
 ![image 9](9.PNG)
 ---
 
-## Creates random choice of circles, based on a particular length.
+## This creates a random choice of circles, based on a particular length.
 
 ![image 10](10.PNG)
 ---
