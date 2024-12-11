@@ -83,6 +83,5 @@
 ![image 16](16.PNG)
 ---
 
-> [!IMPORTANT]
-> You must fork the repository in the link below to save, edit, or run the game.
+### NOTE: You must fork the repository in the link below to save, edit, or run the game.
 ### Live demonstration: [Run on Replit](https://replit.com/@blackmja/Project?v=1)
